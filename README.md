@@ -7,4 +7,4 @@
 </p>
 
 # Installation guide
-Replace the csgo folder in the game's directory.\
+Replace the csgo folder in the game's directory
